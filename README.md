@@ -1,7 +1,10 @@
 # Vue-RealWord
+- [Vue-Realword Github](https://github.com/gothinkster/vue-realworld-example-app)
+- [Project demo](https://vue-vuex-realworld.netlify.app/#/)
 
 ## 요구사항
 - Vue CIL을 이용해 Vue Project로 만들어 진행한다.
+
 
 ## 제약사항
 - [ ] Eslint와 Prettier로 컨벤션 약속 정하기
